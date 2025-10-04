@@ -1,0 +1,37 @@
+{
+  "scenario_name": "Comprehensive Stress Test",
+  "total_duration": "15m 472ms 881us 800ns",
+  "phase_results": [
+    {
+      "name": "baseline",
+      "duration": "2m 6ms 457us 600ns",
+      "injection_count": 0
+    },
+    {
+      "name": "light_network",
+      "duration": "2m 113ms 675us 700ns",
+      "injection_count": 1
+    },
+    {
+      "name": "moderate_combined",
+      "duration": "2m 219ms 516us 900ns",
+      "injection_count": 2
+    },
+    {
+      "name": "memory_stress",
+      "duration": "2m 5ms 18us",
+      "injection_count": 1
+    },
+    {
+      "name": "heavy_chaos",
+      "duration": "3m 119ms 922us 300ns",
+      "injection_count": 3
+    },
+    {
+      "name": "recovery",
+      "duration": "4m 3ms 493us 700ns",
+      "injection_count": 0
+    }
+  ],
+  "total_injections": 7
+}
